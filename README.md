@@ -7,7 +7,7 @@
 - 💞️ I’m happy to collaborate on developing Web applications
 - :thought_balloon: Ask me about anything, I am happy to help.;
 - 📫 reach me on [Gmail](itsmevizz32@gmail.com )
-- :adult: Check my  [Resume](https://docs.google.com/document/d/1hT1V_3Rwl8k709pZY8HD05AJ9ne23pTtl-T6mEqaHEQ/edit?usp=sharing)
+- :adult: Check my  [Resume](https://drive.google.com/file/d/1Yp9vwDgkOdwT3GbyfBqO_y7LgbjnLcRP/view?usp=sharing)
 <h3> Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vishnu-s-kumar-809b20216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu s kumar" height="30" width="40" /></a>
