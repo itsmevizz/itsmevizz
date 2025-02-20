@@ -8,7 +8,7 @@
 - 💞️ I’m happy to collaborate on building responsive web applications
 - :thought_balloon: Ask me about anything related to frontend development
 - 📫 Reach me on [Gmail](mailto:itsmevizz32@gmail.com)
-- :adult: Check my [Resume](https://drive.google.com/file/d/10WZstFRe7l9o8qYa14jci_YdhJPk0Jtd/view?usp=sharing)
+- :adult: Check my [Resume](https://drive.google.com/file/d/1q6fOmVqgmDKFN9JaO3CuVsNSLIom-4kF/view?usp=sharing)
 
 <h3> Connect with me:</h3>
 <p align="left">
